@@ -1,4 +1,4 @@
-# Selection Sort in C
+# Selection Sort 
 
 ## Definition
 
